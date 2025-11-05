@@ -1,4 +1,4 @@
-# Machine Learning Engineering - Learning Archive
+# Machine Learning Engineering
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-green)]()
