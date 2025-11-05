@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-green)]()
 
-Personal repository documenting my journey learning machine learning engineering - from foundational algorithms to production deployment.
+Personal repository documenting my journey learning machine learning engineering from foundational algorithms to production deployment.
 
 ## What I'm Learning
 
